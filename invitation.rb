@@ -8,3 +8,4 @@ guest_name = gets.chomp
 puts "What's the name of the party?"
 
 party_name = gets.chomp 
+
