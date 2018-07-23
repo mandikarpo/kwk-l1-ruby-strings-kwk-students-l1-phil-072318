@@ -19,5 +19,6 @@ time = gets.chomp
 
 puts "Who is hosting the party?"
 
-host = gets.chomp 
+host_name = gets.chomp 
+
 
