@@ -13,3 +13,11 @@ puts "What's the day is the party?"
 
 date = gets.chomp 
 
+puts "What time does the party start?"
+
+time = gets.chomp 
+
+puts "Who is hosting the party?"
+
+host = gets.chomp 
+
