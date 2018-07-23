@@ -9,7 +9,7 @@ puts "What's the name of the party?"
 
 party_name = gets.chomp 
 
-puts "What's the day is the party?"
+puts "What day is the party?"
 
 date = gets.chomp 
 
